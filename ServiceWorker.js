@@ -2,7 +2,7 @@ const cacheName = "LawlantisDevTeam-Lawlantis-0.1.0";
 const contentToCache = [
     "Build/87840f7e24e4019b6d36bc87bbf34837.loader.js",
     "Build/5abc13a973568f463c6d3a3a5100e0bf.framework.js.unityweb",
-    "Build/9828554fa06096536f98ca9ce61291b6.data.unityweb",
+    "Build/e896f408b3a678d2c7399d0eb1b372d4.data.unityweb",
     "Build/25ceb5778602baba136dac52625d62c9.wasm.unityweb",
     "TemplateData/style.css"
 
